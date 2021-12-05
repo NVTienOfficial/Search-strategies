@@ -1,10 +1,9 @@
 # Search-strategies
 My lab work in CS420-Artificial Intelligence course.
 
-Purpose: To implement (and visualize) 4 search algorithm Uniform-cost search(UCS), Iterative deepening search (IDS), Greedy best-first search (GBFS), and A* search.
+1. Purpose: To implement (and visualize) 4 search algorithm Uniform-cost search(UCS), Iterative deepening search (IDS), Greedy best-first search (GBFS), and A* search.
 
-Folder structure:
-
+2. Folder structure:
 |-- INPUT
     |-- example1.txt
     |-- example2.txt
@@ -26,4 +25,4 @@ Folder structure:
     |-- Solution.py
 |-- README.md
 
-Run file main.py in folder SOURCE to start the program.
+3. Run file main.py in folder SOURCE to start the program.
